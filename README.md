@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on **any web related project**
 
-- 🤝 I’m looking for help with **any web related project**
+<!-- 🤝 I’m looking for help with **any web related project**-->
 
 - 👨‍💻 All of my projects are available at [https://abdelghani-mahammedi.netlify.app/](https://abdelghani-mahammedi.netlify.app/)
 
 - 📫 How to reach me **wboductqr@relay.firefox.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1PzkB24mWSIRfiTxeiuigH29rIxmCa5AA1X636u7X7KQ/edit?usp=sharing](https://docs.google.com/document/d/1PzkB24mWSIRfiTxeiuigH29rIxmCa5AA1X636u7X7KQ/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1PzkB24mWSIRfiTxeiuigH29rIxmCa5AA1X636u7X7KQ](https://docs.google.com/document/d/1PzkB24mWSIRfiTxeiuigH29rIxmCa5AA1X636u7X7KQ/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
