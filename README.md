@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently looking for an **internship**
+- 🔭 I’m currently  **On the hunt for a new gig!**
 
 - 🌱 I’m currently learning **typescript**
 
