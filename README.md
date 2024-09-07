@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **wboductqr@relay.firefox.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1PzkB24mWSIRfiTxeiuigH29rIxmCa5AA1X636u7X7KQ](https://docs.google.com/document/d/1PzkB24mWSIRfiTxeiuigH29rIxmCa5AA1X636u7X7KQ/edit?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://docs.google.com/document/d/1PzkB24mWSIRfiTxeiuigH29rIxmCa5AA1X636u7X7KQ](https://drive.google.com/file/d/1Hk0gFnrosEhp8doWZws__uEw7BYZ_0e7/view))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
