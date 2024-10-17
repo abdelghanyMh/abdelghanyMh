@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently  **On the hunt for a new gig!**
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **Angular 18**
 
 - 👯 I’m looking to collaborate on **any web related project**
 
