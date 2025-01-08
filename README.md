@@ -1,24 +1,19 @@
-
-<h1 align="center">Hi 👋, I'm Abdelghani</h1>
-<h3 align="center">A passionate web developer from Algeria.</h3>
+<h1 align="center">👋 Hey there, I'm Abdelghani!</h1>
+<h3 align="center">A web developer from Algeria who turns coffee into code ☕→💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelghanymh&label=Profile%20views&color=0e75b6&style=flat" alt="abdelghanymh" /> </p>
 
+- 🔭 Currently: **Hunting for my next adventure in tech!** (Will code for food 🍕)
 
+- 🌱 Learning **Java Spring Boot** (Because apparently, I enjoy debugging my debugging tools)
 
-- 🔭 I’m currently  **On the hunt for a new gig!**
+- 👯 Looking to collaborate on **web projects** (Promise I won't break production... more than once)
 
-- 🌱 I’m currently learning **Angular 18**
+- 👨‍💻 Check out my digital playground at [https://abdelghani-mahammedi.netlify.app/](https://abdelghani-mahammedi.netlify.app/)
 
-- 👯 I’m looking to collaborate on **any web related project**
+- 📫 Reach me at **wboductqr@relay.firefox.com** (I respond faster than my API calls!)
 
-<!-- 🤝 I’m looking for help with **any web related project**-->
-
-- 👨‍💻 All of my projects are available at [https://abdelghani-mahammedi.netlify.app/](https://abdelghani-mahammedi.netlify.app/)
-
-- 📫 How to reach me **wboductqr@relay.firefox.com**
-
-- 📄 Know about my experiences [Resume]([https://docs.google.com/document/d/1PzkB24mWSIRfiTxeiuigH29rIxmCa5AA1X636u7X7KQ](https://drive.google.com/file/d/1Hk0gFnrosEhp8doWZws__uEw7BYZ_0e7/view))
+- 📄 Want to know my secret origin story? Check out my [Resume](https://drive.google.com/file/d/1Hk0gFnrosEhp8doWZws__uEw7BYZ_0e7/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +21,7 @@
 <a href="https://stackoverflow.com/users/9180698/abdelghanymh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdelghanymh" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Tech Arsenal (AKA "Things I Google Daily"):</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -189,11 +184,4 @@
  
   
 </p>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelghanymh&show_icons=true&locale=en&layout=compact" alt="abdelghanymh" /></p>
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelghanymh&show_icons=true&locale=en" alt="abdelghanymh" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelghanymh" alt="abdelghanymh" /></a> </p>
--->
-
