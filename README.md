@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **wboductqr@relay.firefox.com** (I respond faster than my API calls!)
 
-- 📄 Want to know my secret origin story? Check out my [Resume](https://drive.google.com/file/d/1Hk0gFnrosEhp8doWZws__uEw7BYZ_0e7/view)
+- 📄 Want to know my secret origin story? Check out my [Resume](https://drive.google.com/file/d/1kBJTVg34t_8tN2cCum9po8YGsklb5KAL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
