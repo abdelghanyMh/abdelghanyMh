@@ -18,6 +18,10 @@
   <img src="https://komarev.com/ghpvc/?username=abdelghanyMh&label=Profile%20views&color=0e75b6&style=flat-square" />
 </p>
 
+
+  [![committers.top badge](https://user-badge.committers.top/algeria_private/abdelghanyMh.svg)](https://user-badge.committers.top/algeria_private/abdelghanyMh)
+
+
 ---
 
 ### 🧑‍💻 About Me
@@ -28,6 +32,7 @@
 - 🟢 **Open to backend / AI-engineering roles & collaborations**
 - 🌐 Portfolio → **[abdelghani-mahammedii.netlify.app](https://abdelghani-mahammedii.netlify.app/)**
 - ⚡ Fun fact: I respond faster than my API calls
+
 
 ---
 
